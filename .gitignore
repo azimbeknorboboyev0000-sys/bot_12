@@ -1,0 +1,10 @@
+.env
+.env.*
+!.env.example
+*.db
+*.db-*
+__pycache__/
+*.py[cod]
+*.log
+.muhit
+/muhit
